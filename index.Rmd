@@ -44,6 +44,7 @@ Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations)
 knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/reproducibility_court.png")
 ```
 
+Slides at [bit.ly/shilaan-rmd](https://bit.ly/shilaan-rmd)  
 Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations)
 
 ---

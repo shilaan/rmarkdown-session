@@ -78,7 +78,7 @@ Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations)
 ---
 background-image: url("https://github.com/allisonhorst/stats-illustrations/raw/master/make-your-own-stats-cartoons/ex_3.png")
 background-position: 100% 90%
-background-size: 40%
+background-size: 38%
 
 # Icebreakers 🧊🔨 
 
@@ -101,6 +101,10 @@ Choose one of the following questions to share with your breakout partner:
 --
 
 😭 What movie/show/scene/song always makes you cry?
+
+--
+
+🙈 What was your most embarrassing childhood fashion trend?
 
 --
 

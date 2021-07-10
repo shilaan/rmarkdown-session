@@ -34,7 +34,7 @@ style_duo(primary_color = "#ffffff",
 
 ## Reproducible reports with RMarkdown
 [**Shilaan Alzahawi**](http://shilaan.rbind.io) @ Stanford Data Science Institute  
-Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations)
+Artwork by [@allison_horst](https://github.com/allisonhorst/stats-illustrations)
 
 ---
 
@@ -45,7 +45,7 @@ knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw
 ```
 
 Slides at [bit.ly/shilaan-rmd](https://bit.ly/shilaan-rmd)  
-Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations)
+Artwork by [@allison_horst](https://github.com/allisonhorst/stats-illustrations)
 
 ---
 
@@ -299,7 +299,7 @@ background-size: 20%
 knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/rmarkdown_rockstar.png")
 ```
 
-Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations):  
+Artwork by [@allison_horst](https://github.com/allisonhorst/stats-illustrations):  
 **Get your code, text, and outputs in the same (reproducible) place**
 
 ---
@@ -502,7 +502,7 @@ knitr::include_graphics("https://www.pipinghotdata.com/posts/2020-09-07-introduc
 knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/rmarkdown_wizards.png")
 ```
 
-Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations):  
+Artwork by [@allison_horst](https://github.com/allisonhorst/stats-illustrations):  
 **Become an RMarkdown knitting wizard**
 
 ---
@@ -841,7 +841,7 @@ class: right
 knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_first_then.png?raw=true")
 ```
 
-Artwork by [@alison_horst](https://github.com/allisonhorst/stats-illustrations)
+Artwork by [@allison_horst](https://github.com/allisonhorst/stats-illustrations)
 
 
 ---
